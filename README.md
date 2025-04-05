@@ -1,0 +1,2 @@
+# nixOSconfig
+ohhh yeah!
