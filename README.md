@@ -1,2 +1,2 @@
 # nixOSconfig
-ohhh yeah!
+my custom nixos config
