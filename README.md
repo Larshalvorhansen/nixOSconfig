@@ -1,4 +1,4 @@
-# repo for automatically updating my various configurations for development
+Automatically syncronising various dev configurations across different machines
 
 This includes
 - nixos
