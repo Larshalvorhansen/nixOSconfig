@@ -1,4 +1,4 @@
-Automatically syncronising various dev configurations across different machines
+## Automatically syncronising various dev configurations across different machines
 
 This includes
 - nixos
