@@ -1,0 +1,7 @@
+#Used for syncing my config on different computers
+#Ignore all files exept for nvim, tmux and alacritty. 
+*
+!.gitignore
+!alacritty/
+!nvim/
+!tmux/
