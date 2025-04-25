@@ -1,0 +1,6 @@
+{
+  "iron.nvim": { "branch": "master", "commit": "93b3b97cf4313613fba5e91055deaf091cd78483" },
+  "jupyter-vim": { "branch": "master", "commit": "91eef96d0f26ce37db241833341d08d11c8e5215" },
+  "lazy.nvim": { "branch": "main", "commit": "6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a" },
+  "onedarkpro.nvim": { "branch": "main", "commit": "9f92da13ef8e44c97f1b31ccb3bddd30ab30ec9a" }
+}

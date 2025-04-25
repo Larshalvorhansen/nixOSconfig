@@ -2,6 +2,9 @@
 #Ignore all files exept for nvim, tmux and alacritty. 
 *
 !.gitignore
+!alacritty/
 !alacritty/**
+!nvim/
 !nvim/**
+!tmux/
 !tmux/**
