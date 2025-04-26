@@ -37,5 +37,4 @@ require("lazy").setup({
       vim.cmd("colorscheme onedark") -- Choose "onedark", "onedark_dark", "onedark_vivid", or "onedark_pro"
     end
   },
-})'
---test sync
+})
