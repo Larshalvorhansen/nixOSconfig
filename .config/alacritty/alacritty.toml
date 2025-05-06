@@ -1,0 +1,34 @@
+[window]
+opacity = 1
+decorations = "none" #remove titlebar
+
+[font]
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
+size = 14
+
+[colors.primary]
+background = "0x000000"
+foreground = "0xffffff"
+
+[colors.normal]
+black   = "0x000000"
+blue    = "0x183b6d"
+green   = "0x98b44f"
+magenta = "0xa57ca9"
+red     = "0xcc525a"
+cyan    = "0x7fb8a1"
+white   = "0xcfd8d8"
+yellow  = "0xd4b355"
+
+[colors.bright]
+black   = "0x2b2b2b"
+blue    = "0x204a87"
+green   = "0xbad761"
+magenta = "0xc39ac9"
+red     = "0xff6570"
+cyan    = "0x9cd1bb"
+white   = "0xeaf1f1"
+yellow  = "0xffd76d"
+
+[terminal]
+shell = { program = "/opt/homebrew/bin/tmux", args = ["new-session", "-As", "urtiburti]"]}
